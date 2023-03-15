@@ -1,0 +1,349 @@
+Respondente,Genero,Meio,Comprou
+1,F,Site,True
+1,F,Loja do Instagram,False
+1,F,Whatsapp,False
+1,F,Loja física,False
+2,M,Site,False
+2,M,Whatsapp,False
+2,M,Loja do Instagram,False
+2,M,Loja física,False
+3,M,Whatsapp,False
+3,M,Loja física,False
+3,M,Loja do Instagram,False
+3,M,Site,True
+4,M,Site,True
+4,M,Whatsapp,False
+4,M,Loja física,True
+4,M,Loja do Instagram,False
+5,F,Whatsapp,True
+5,F,Site,True
+5,F,Loja física,True
+5,F,Loja do Instagram,False
+6,F,Site,True
+6,F,Whatsapp,False
+6,F,Loja física,False
+6,F,Loja do Instagram,True
+7,M,Whatsapp,True
+7,M,Site,True
+7,M,Loja do Instagram,False
+7,M,Loja física,True
+8,F,Site,True
+8,F,Loja física,False
+8,F,Whatsapp,True
+8,F,Loja do Instagram,False
+9,F,Loja física,True
+9,F,Whatsapp,False
+9,F,Site,True
+9,F,Loja do Instagram,True
+10,F,Site,True
+10,F,Whatsapp,True
+10,F,Loja do Instagram,False
+10,F,Loja física,False
+11,F,Loja física,True
+11,F,Site,True
+11,F,Whatsapp,False
+11,F,Loja do Instagram,True
+12,M,Loja do Instagram,False
+12,M,Loja física,True
+12,M,Site,True
+12,M,Whatsapp,False
+13,F,Whatsapp,False
+13,F,Loja do Instagram,True
+13,F,Site,True
+13,F,Loja física,True
+14,F,Whatsapp,False
+14,F,Loja do Instagram,True
+14,F,Site,True
+14,F,Loja física,False
+15,M,Loja física,True
+15,M,Whatsapp,False
+15,M,Loja do Instagram,False
+15,M,Site,True
+16,F,Whatsapp,False
+16,F,Site,True
+16,F,Loja física,True
+16,F,Loja do Instagram,False
+17,M,Loja do Instagram,False
+17,M,Loja física,True
+17,M,Site,True
+17,M,Whatsapp,True
+18,F,Site,False
+18,F,Loja do Instagram,True
+18,F,Loja física,False
+18,F,Whatsapp,False
+19,F,Loja do Instagram,True
+19,F,Site,True
+19,F,Whatsapp,True
+19,F,Loja física,True
+20,F,Whatsapp,True
+20,F,Loja física,False
+20,F,Site,False
+20,F,Loja do Instagram,False
+21,F,Whatsapp,False
+21,F,Loja física,True
+21,F,Loja do Instagram,True
+21,F,Site,True
+22,M,Loja física,True
+22,M,Site,True
+22,M,Loja do Instagram,False
+22,M,Whatsapp,True
+23,F,Loja do Instagram,False
+23,F,Loja física,True
+23,F,Whatsapp,False
+23,F,Site,True
+24,F,Loja do Instagram,True
+24,F,Loja física,False
+24,F,Whatsapp,False
+24,F,Site,True
+25,F,Loja física,False
+25,F,Loja do Instagram,True
+25,F,Site,True
+25,F,Whatsapp,False
+26,M,Whatsapp,False
+26,M,Loja física,False
+26,M,Site,True
+26,M,Loja do Instagram,False
+27,F,Site,True
+27,F,Whatsapp,False
+27,F,Loja do Instagram,True
+27,F,Loja física,True
+28,M,Loja do Instagram,True
+28,M,Site,False
+28,M,Loja física,True
+28,M,Whatsapp,False
+29,M,Loja do Instagram,False
+29,M,Loja física,True
+29,M,Site,True
+29,M,Whatsapp,False
+30,F,Loja física,True
+30,F,Whatsapp,False
+30,F,Site,True
+30,F,Loja do Instagram,False
+31,F,Loja física,True
+31,F,Loja do Instagram,False
+31,F,Site,True
+31,F,Whatsapp,False
+32,M,Loja física,True
+32,M,Loja do Instagram,False
+32,M,Site,True
+32,M,Whatsapp,False
+33,F,Loja do Instagram,False
+33,F,Site,True
+33,F,Whatsapp,False
+33,F,Loja física,True
+34,F,Loja do Instagram,False
+34,F,Loja física,True
+34,F,Site,True
+34,F,Whatsapp,False
+35,F,Whatsapp,False
+35,F,Site,True
+35,F,Loja do Instagram,False
+35,F,Loja física,False
+36,M,Whatsapp,False
+36,M,Loja do Instagram,False
+36,M,Loja física,False
+36,M,Site,True
+37,F,Loja física,True
+37,F,Whatsapp,True
+37,F,Loja do Instagram,True
+37,F,Site,True
+38,F,Loja física,False
+38,F,Loja do Instagram,True
+38,F,Site,True
+38,F,Whatsapp,True
+39,F,Site,True
+39,F,Whatsapp,False
+39,F,Loja física,True
+39,F,Loja do Instagram,True
+40,F,Site,True
+40,F,Whatsapp,False
+40,F,Loja física,False
+40,F,Loja do Instagram,False
+41,M,Loja do Instagram,False
+41,M,Site,True
+41,M,Whatsapp,True
+41,M,Loja física,False
+42,M,Loja do Instagram,False
+42,M,Site,False
+42,M,Whatsapp,False
+42,M,Loja física,True
+43,F,Whatsapp,False
+43,F,Loja física,False
+43,F,Site,True
+43,F,Loja do Instagram,True
+44,F,Loja do Instagram,False
+44,F,Site,True
+44,F,Whatsapp,False
+44,F,Loja física,True
+45,F,Whatsapp,False
+45,F,Loja física,True
+45,F,Site,True
+45,F,Loja do Instagram,False
+46,M,Whatsapp,True
+46,M,Site,True
+46,M,Loja do Instagram,True
+46,M,Loja física,False
+47,F,Loja do Instagram,False
+47,F,Loja física,True
+47,F,Whatsapp,False
+47,F,Site,True
+48,F,Whatsapp,False
+48,F,Loja do Instagram,False
+48,F,Loja física,True
+48,F,Site,True
+49,F,Whatsapp,True
+49,F,Loja física,False
+49,F,Site,True
+49,F,Loja do Instagram,False
+50,F,Whatsapp,False
+50,F,Loja do Instagram,False
+50,F,Loja física,False
+50,F,Site,True
+51,M,Loja do Instagram,False
+51,M,Site,True
+51,M,Whatsapp,False
+51,M,Loja física,False
+52,F,Loja do Instagram,False
+52,F,Loja física,False
+52,F,Site,True
+52,F,Whatsapp,False
+53,F,Loja física,False
+53,F,Loja do Instagram,True
+53,F,Site,True
+53,F,Whatsapp,False
+54,M,Loja física,True
+54,M,Site,True
+54,M,Whatsapp,False
+54,M,Loja do Instagram,True
+55,F,Whatsapp,False
+55,F,Loja do Instagram,False
+55,F,Site,True
+55,F,Loja física,False
+56,F,Whatsapp,False
+56,F,Loja física,False
+56,F,Site,True
+56,F,Loja do Instagram,True
+57,F,Loja física,True
+57,F,Loja do Instagram,True
+57,F,Whatsapp,False
+57,F,Site,False
+58,F,Loja física,False
+58,F,Loja do Instagram,True
+58,F,Whatsapp,False
+58,F,Site,False
+59,M,Loja física,False
+59,M,Loja do Instagram,True
+59,M,Whatsapp,False
+59,M,Site,True
+60,M,Loja física,False
+60,M,Site,True
+60,M,Whatsapp,False
+60,M,Loja do Instagram,False
+61,M,Whatsapp,True
+61,M,Loja física,False
+61,M,Loja do Instagram,False
+61,M,Site,True
+62,F,Loja do Instagram,True
+62,F,Site,True
+62,F,Loja física,False
+62,F,Whatsapp,False
+63,M,Loja do Instagram,False
+63,M,Loja física,False
+63,M,Site,True
+63,M,Whatsapp,True
+64,F,Loja física,False
+64,F,Loja do Instagram,False
+64,F,Whatsapp,True
+64,F,Site,False
+65,F,Whatsapp,False
+65,F,Site,True
+65,F,Loja física,True
+65,F,Loja do Instagram,False
+66,F,Whatsapp,False
+66,F,Site,True
+66,F,Loja do Instagram,False
+66,F,Loja física,True
+67,M,Loja do Instagram,True
+67,M,Loja física,True
+67,M,Site,True
+67,M,Whatsapp,True
+68,F,Loja do Instagram,False
+68,F,Loja física,True
+68,F,Site,False
+68,F,Whatsapp,False
+69,F,Loja física,True
+69,F,Whatsapp,False
+69,F,Loja do Instagram,False
+69,F,Site,False
+70,F,Loja física,False
+70,F,Whatsapp,False
+70,F,Site,True
+70,F,Loja do Instagram,False
+71,F,Whatsapp,True
+71,F,Loja física,True
+71,F,Site,True
+71,F,Loja do Instagram,False
+72,F,Loja física,False
+72,F,Whatsapp,False
+72,F,Site,True
+72,F,Loja do Instagram,True
+73,M,Loja física,True
+73,M,Site,True
+73,M,Whatsapp,True
+73,M,Loja do Instagram,False
+74,F,Loja do Instagram,True
+74,F,Loja física,True
+74,F,Whatsapp,False
+74,F,Site,False
+75,F,Site,True
+75,F,Loja física,False
+75,F,Whatsapp,False
+75,F,Loja do Instagram,True
+76,M,Whatsapp,True
+76,M,Loja do Instagram,True
+76,M,Site,False
+76,M,Loja física,True
+77,M,Loja física,False
+77,M,Whatsapp,False
+77,M,Loja do Instagram,True
+77,M,Site,False
+78,F,Whatsapp,False
+78,F,Site,False
+78,F,Loja física,True
+78,F,Loja do Instagram,False
+79,F,Site,True
+79,F,Loja do Instagram,True
+79,F,Whatsapp,False
+79,F,Loja física,True
+80,M,Site,True
+80,M,Loja do Instagram,False
+80,M,Whatsapp,False
+80,M,Loja física,True
+81,F,Whatsapp,False
+81,F,Site,True
+81,F,Loja do Instagram,False
+81,F,Loja física,False
+82,F,Loja física,True
+82,F,Loja do Instagram,False
+82,F,Whatsapp,False
+82,F,Site,True
+83,F,Loja do Instagram,True
+83,F,Whatsapp,False
+83,F,Loja física,True
+83,F,Site,True
+84,M,Whatsapp,False
+84,M,Loja física,False
+84,M,Site,True
+84,M,Loja do Instagram,False
+85,F,Whatsapp,False
+85,F,Loja do Instagram,False
+85,F,Site,True
+85,F,Loja física,False
+86,M,Whatsapp,False
+86,M,Loja do Instagram,False
+86,M,Loja física,False
+86,M,Site,True
+87,M,Loja física,True
+87,M,Site,True
+87,M,Whatsapp,True
+87,M,Loja do Instagram,True
